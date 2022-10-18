@@ -24,5 +24,6 @@ and the reset button can be used to reset the incremented values to 0.
 this automatically reduces the navbar count.
 
 <br>
-![Screenshot (9)](https://user-images.githubusercontent.com/86926101/196475270-7788b450-8e8b-43ec-912f-2e83a2cff7e4.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/86926101/196476433-a8b9972e-f040-454c-8a9b-fae1e79a4e51.png)
+
 
